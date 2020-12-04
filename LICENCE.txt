@@ -18,3 +18,7 @@ modified in any way without further permission or notification.
 
 The program source (in Ada) and dictionary are freely available for
 rehosting.
+
+This license grant is taken verbatim from the Development/Rehosting 
+information in the wordsdev.htm file accompanying the original 
+author's 1.97FC release, on which the code in this repository is based.
